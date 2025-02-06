@@ -21,6 +21,10 @@ nav {
     gap: 50px;
 }
 
+.nav-bar a:hover {
+    color: rgb(168, 230, 255);
+}
+
 a {
     text-decoration: none;
     color: white;
